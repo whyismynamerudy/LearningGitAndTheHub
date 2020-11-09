@@ -14,4 +14,5 @@ def factorial(x):
 number = factorial(5)
 print(number)
 
-print("rudy is boss")
+for i in range(5):
+	print("rudy is boss")
